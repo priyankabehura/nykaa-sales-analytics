@@ -25,3 +25,5 @@ An interactive end-to-end Excel sales dashboard designed to analyze revenue tren
 * **Interactive Slicers:** Connected across multiple pivot tables for Month, Category, and Channel breakdown.
 * **Custom KPI Cards:** Clean summary of core metrics for quick business insights.
 * **Visual Breakdown:** Category share donut chart, Top 5 brands/cities horizontal bars, and a 12-month sales trend line.
+## 🖥️ Dashboard Preview
+![Nykaa Sales Dashboard](IMG-20260711-WA0000.jpg)

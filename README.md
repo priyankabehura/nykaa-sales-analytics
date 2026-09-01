@@ -17,7 +17,7 @@ An interactive end-to-end Excel sales dashboard designed to analyze revenue tren
 * **Top Category:** Fragrance (₹5,43,327 | 29% total share)
 * **Top Performing City:** Bengaluru (₹2,24,419)
 * **Peak Sales Month:** September (₹2,17,240)
-* **Top Sales Day:** Friday
+* **Top Sales Day:** Friday. 
 
 ---
 
